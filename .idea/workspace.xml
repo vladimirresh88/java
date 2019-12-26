@@ -6,7 +6,15 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc7ee429-88bf-41e8-a265-cfb3c115bc0e" name="Default Changelist" comment="" />
+    <list default="true" id="cc7ee429-88bf-41e8-a265-cfb3c115bc0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlets/web/jsp/JSPgetResponse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlets/web/jsp/MorePages.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlets/web/jsp/Redirrect.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine/target/engine.ear" beforeDir="false" afterPath="$PROJECT_DIR$/engine/target/engine.ear" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine/target/engine/servlets-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/engine/target/engine/servlets-1.0-SNAPSHOT.war" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +25,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -44,6 +56,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -154,11 +167,23 @@
       <workItem from="1577082636909" duration="3083000" />
       <workItem from="1577163726461" duration="9113000" />
       <workItem from="1577297916988" duration="7277000" />
+      <workItem from="1577381348200" duration="3624000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="189" y="23" key="#Project_Structure" timestamp="1577168978234">
