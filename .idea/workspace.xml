@@ -7,13 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc7ee429-88bf-41e8-a265-cfb3c115bc0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlets/web/jsp/JSPgetResponse.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlets/web/jsp/MorePages.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlets/web/jsp/Redirrect.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlets/src/jsphelpers/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlets/src/jsphelpers/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlets/web/jsp/Bean.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/engine/target/engine.ear" beforeDir="false" afterPath="$PROJECT_DIR$/engine/target/engine.ear" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/engine/target/engine/servlets-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/engine/target/engine/servlets-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/engine/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlets/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/servlets/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlets/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/servlets/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlets/target/servlets.war" beforeDir="false" afterPath="$PROJECT_DIR$/servlets/target/servlets.war" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,6 +71,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\JAVA\java-begin\java\servlets\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,6 +89,7 @@
   </component>
   <component name="RunManager">
     <configuration name="JBoss 16.0.0.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 16.0.0.Final" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="engine:ear">
@@ -168,6 +175,7 @@
       <workItem from="1577163726461" duration="9113000" />
       <workItem from="1577297916988" duration="7277000" />
       <workItem from="1577381348200" duration="3624000" />
+      <workItem from="1577473755611" duration="5934000" />
     </task>
     <servers />
   </component>
@@ -179,7 +187,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

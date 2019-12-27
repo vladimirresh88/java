@@ -1,4 +1,8 @@
-ServletURLParameters.class
+ServletSession.class
 ServletTest.class
 ServletXSS.class
+ServletAsynch$1.class
 ServletStatus.class
+ServletAsynch.class
+ServletURLParameters.class
+ServletCookie.class
