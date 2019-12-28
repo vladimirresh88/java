@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="javaeeApplication" url="file://$PROJECT_DIR$/engine" />
+    <file type="web" url="file://$PROJECT_DIR$/mvc" />
     <file type="web" url="file://$PROJECT_DIR$/servlets" />
   </component>
   <component name="MavenProjectsManager">

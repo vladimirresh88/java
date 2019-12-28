@@ -66,12 +66,16 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4014706" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src" />
+      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src\main\main" />
+      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src\main" />
       <recent name="D:\Projects\JAVA\java-begin\java\servlets\src" />
     </key>
   </component>
@@ -89,6 +93,7 @@
   </component>
   <component name="RunManager">
     <configuration name="JBoss 16.0.0.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 16.0.0.Final" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -176,6 +181,7 @@
       <workItem from="1577297916988" duration="7277000" />
       <workItem from="1577381348200" duration="3624000" />
       <workItem from="1577473755611" duration="5934000" />
+      <workItem from="1577521412637" duration="4112000" />
     </task>
     <servers />
   </component>
