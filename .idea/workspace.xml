@@ -24,6 +24,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -73,10 +76,11 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src" />
-      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src\main\main" />
-      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src\main" />
-      <recent name="D:\Projects\JAVA\java-begin\java\servlets\src" />
+      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src\mvc\servlet" />
+      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src\mvc" />
+      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src\mvc\main" />
+      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src\mvc\java" />
+      <recent name="G:\Documents\JavaProject\JavaEEtest\mvc\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -181,7 +185,7 @@
       <workItem from="1577297916988" duration="7277000" />
       <workItem from="1577381348200" duration="3624000" />
       <workItem from="1577473755611" duration="5934000" />
-      <workItem from="1577521412637" duration="4112000" />
+      <workItem from="1577521412637" duration="5744000" />
     </task>
     <servers />
   </component>

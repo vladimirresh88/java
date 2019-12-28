@@ -1,5 +1,7 @@
-import jsp.MyModel;
-import jsp.Student;
+package mvc.servlet;
+
+import  mvc.jsp.MyModel;
+import  mvc.jsp.Student;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

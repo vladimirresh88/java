@@ -11,7 +11,7 @@
     <title>$Title$</title>
 </head>
 <body>
-    <jsp:useBean id="Student" class="jsp.Student" scope="request"/>
+    <jsp:useBean id="Student" class="mvc.jsp.Student" scope="request"/>
 <%--    <jsp:useBean id="Student" class="jsp.Student" scope="session"/>--%>
 <%--    <jsp:useBean id="Student" class="jsp.Student" scope="application"/>--%>
     <jsp:getProperty name="Student" property="name"/>

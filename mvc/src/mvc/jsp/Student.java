@@ -1,4 +1,4 @@
-package jsp;
+package  mvc.jsp;
 
 public class Student {
     private String name;

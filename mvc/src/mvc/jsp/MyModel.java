@@ -1,4 +1,4 @@
-package jsp;
+package  mvc.jsp;
 
 public class MyModel {
     public Student getStudent() {
