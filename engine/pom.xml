@@ -12,6 +12,12 @@
     <artifactId>engine</artifactId>
     <packaging>ear</packaging>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>com.javaee</groupId>
@@ -22,6 +28,12 @@
         <dependency>
             <groupId>com.javaee</groupId>
             <artifactId>mvc</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <type>war</type>
+        </dependency>
+        <dependency>
+            <groupId>com.javaee</groupId>
+            <artifactId>rest</artifactId>
             <version>1.0-SNAPSHOT</version>
             <type>war</type>
         </dependency>
@@ -44,6 +56,11 @@
                             <groupId>com.javaee</groupId>
                             <artifactId>mvc</artifactId>
                             <contextRoot>/mvc</contextRoot>
+                        </webModule>
+                        <webModule>
+                            <groupId>com.javaee</groupId>
+                            <artifactId>rest</artifactId>
+                            <contextRoot>/rest</contextRoot>
                         </webModule>
                     </modules>
                 </configuration>

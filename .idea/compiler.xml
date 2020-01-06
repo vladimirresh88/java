@@ -8,8 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mvc" />
         <module name="engine" />
+        <module name="rest" />
         <module name="servlets" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>

@@ -8,10 +8,18 @@
     <artifactId>javaee</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+    
     <modules>
         <module>engine</module>
         <module>servlets</module>
         <module>mvc</module>
+        <module>rest</module>
     </modules>
 
 
