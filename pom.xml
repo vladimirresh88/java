@@ -20,6 +20,7 @@
         <module>servlets</module>
         <module>mvc</module>
         <module>rest</module>
+        <module>badRestfull</module>
     </modules>
 
 
