@@ -21,6 +21,8 @@
         <module>mvc</module>
         <module>rest</module>
         <module>badRestfull</module>
+        <module>websocket</module>
+        <module>CDI</module>
     </modules>
 
 
