@@ -1,6 +1,7 @@
 package api;
 
 import api.controllers.CdiFirst;
+import api.controllers.ProdusesFunnySum;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
@@ -12,7 +13,7 @@ public class WebModule extends Application {
     @Override
     public Set<Class<?>> getClasses() {
         HashSet h = new HashSet<Class<?>>();
-        //h.add(CdiFirst.class);
+        h.add(ProdusesFunnySum.class);
         return h;
     }
 }
